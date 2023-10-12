@@ -8,7 +8,7 @@ Animenz is a Youtuber who arranges piano pieces for the most popular anime songs
 
 ### NOTE
 
-This is a practice website and servs no real purpose.
+Portfolio Project.
 
 ## Animenz Social
 
